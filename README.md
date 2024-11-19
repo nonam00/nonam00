@@ -38,6 +38,7 @@
 
 [![nonam00's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nonam00\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/nonam00/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 [![nonam00's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nonam00\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/nonam00/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+  
 [![nonam00's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=nonam00\&show_icons=true\&theme=dark\&layout=compact#gh-dark-mode-only)](https://github.com/nonam00/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 [![nonam00's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=nonam00\&show_icons=true\&theme=default\&layout=compact#gh-light-mode-only)](https://github.com/nonam00/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
